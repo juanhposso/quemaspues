@@ -26,3 +26,9 @@ nav h1 {
 header div {
 	padding: 20px;
 }
+
+footer h1 {
+	padding: 0;
+	padding-top: 7px;
+	text-align: center;
+}
