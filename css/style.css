@@ -10,12 +10,12 @@ h1 {
 	margin: 0;
 	padding: 0.5rem 0;
 }
-header {
+.main {
 	border: 1px solid black;
 	width: 60%;
 	height: max-content;
 }
-nav {
+.header {
 	width: 100%;
 	background-color: darkorange;
 	box-shadow: 0px 8px 15px 0px rgba(0, 0, 0, 0.42);
@@ -38,6 +38,8 @@ nav {
 .parrafos {
 	padding: 20px;
 }
-footer nav h1 {
-	margin: 0 auto;
+.footer nav {
+	background-color: cornflowerblue;
+	color: white;
+	text-align: center;
 }
