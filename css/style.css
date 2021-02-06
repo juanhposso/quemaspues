@@ -25,13 +25,15 @@ nav {
 .logo img {
 	vertical-align: middle;
 	height: 50px;
-}
-nav h1 {
-	padding-top: 7px;
-	text-align: center;
 	margin: 0;
 	padding-left: 20px;
 }
 .parrafos {
 	padding: 20px;
+}
+
+footer h1 {
+	padding: 0;
+	padding-top: 7px;
+	text-align: center;
 }
